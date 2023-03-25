@@ -6,3 +6,8 @@ This folder hosts the latest
 See [NCAlgebra repo](https://github.com/NCAlgebra/NC) for the latest
 release.
 
+## Attribution
+
+This documentation uses a css style from
+
+https://github.com/sindresorhus/github-markdown-css
