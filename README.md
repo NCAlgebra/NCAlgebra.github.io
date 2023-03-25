@@ -1,4 +1,8 @@
 # NCAlgebra Documentation
 
 This folder hosts the latest
-[NCAlgebra](https://github.com/NCAlgebra/NC) documentation.
+[NCAlgebra documentation](https://NCAlgebra.github.io).
+
+See [NCAlgebra repo](https://github.com/NCAlgebra/NC) for the latest
+release.
+
